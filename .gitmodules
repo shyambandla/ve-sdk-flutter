@@ -1,0 +1,3 @@
+[submodule "theApp"]
+	path = theApp
+	url = https://github.com/mediakliq/theApp.git
